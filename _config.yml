@@ -1,19 +1,19 @@
-name: Herring Cove
-author: Herring Cove
-baseurl: /herring-cove
-description: theme for jekyll
-github: http://www.github.com/arnp
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
-linkedin: http://www.linkedin.com
-email: rnpatel[at]me.com
-location: 42°2'16"N   70°12'47"W
-disqus: diqus-username
+name: Felipe en 🇩🇰
+author: Felipe Cabargas
+baseurl:
+description: Otro 🇨🇱 en Dinamarca
+github: http://www.github.com/felipecabargas
+twitter: http://www.twitter.com/juanpintoduran
+instagram: http://www.instagram.com/juanpintoduran
+linkedin: http://www.linkedin.com/in/cabargas
+email: felipe.cabargas[at]gmail.com
+location: København, Danmark
+disqus: cabargas
 
 ##Make sure to edit the above fields, especially for disqus.
 
 
-highlighter: pygments
+highlighter: rouge
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
