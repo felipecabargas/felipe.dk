@@ -6,16 +6,7 @@ categories: visado mudanza
 
 Estoy innaugurando este blog, donde quiero repasar las cosas que me ha tocado hacer como parte del proceso de mudarme desde literalmente el Sur de América *del Sur* al Norte de Europa.
 
-En este primer post, quiero repasar un poco lo que ha sido mi proceso
-
-### Algo así como un Índice
-
-+ [Aceptando una oferta]()
-+ [Qué necesito para irme a trabajar a Dinamarca?]()
-+ [Dinamarca en Chile, Noruega y el Centro de Postulación a Visas VFS]()
-+ [Esperar o no?]()
-+ [Costos](#costos)
-+ [Links útiles]()
+En este primer post, quiero repasar un poco lo que ha sido mi proceso!!!
 
 ### Aceptando una oferta
 
@@ -152,6 +143,8 @@ Al dīa siguiente de entregar mis documentos, le escribí a la Embajada de Norue
 Ahora solo queda la aprobación.
 
 ### Viajar y esperar allá o no?
+
+Para variar depende: Si eres de un país que requiere a sus ciudadanos tener una visa para entrar a Dinamarca? No hay suerte! Ahora si eres de Chile u otro país con acceso sin visa a Dinamarca:
 
 Aquí hay que pensarlo bien. Depende de muchos factores. El más importante... la fecha. 
 

@@ -44,6 +44,34 @@ p
   line-height: 2.0
 }
 
+table {
+  width: 100%;
+  text-align: left;
+}
+table td, table th {
+  border: 1px solid #EDEDED;
+  padding: 7px 3px;
+}
+table tbody td {
+  font-size: 13px;
+}
+table thead {
+  background: #d90006;
+}
+table thead th {
+  font-size: 15px;
+  font-weight: normal;
+  color: #FFFFFF;
+}
+table tfoot {
+  font-size: 14px;
+  font-weight: normal;
+  color: #FFFFFF;
+}
+table tfoot td {
+  font-size: 14px;
+}
+
 .posts
 {
   font-size:20px;
