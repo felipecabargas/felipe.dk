@@ -32,10 +32,9 @@ Si eres ciudadano europeo... deja de leer aquí, compra el ticket a Dinamarca, y
 
 Si no, como yo y la mayoría, vamos más lento. Aún no hagas las maletas, primero vamos a revisar los pasos y documentación necesarias para irnos.
 
-Primero que todo, tienes que revisar cual esquema de migración te conviene más. Los esquemas están disponibles en la página oficial del Consejo para el Reclutamiento y la Integración Internacional, SIRI por su sigla en danés (ojo que este SIRI es bastante más lento y burocrático que el otro): 
+Primero que todo, tienes que revisar cual esquema de migración te conviene más. Los esquemas están disponibles en la página oficial del Consejo para el Reclutamiento y la Integración Internacional, SIRI por su sigla en danés (ojo que este SIRI es bastante más lento y burocrático que el otro):
 
 * Danés [nyidanmark.dk](https://nyidanmark.dk/)
-
 * Inglés [newindenmark.dk](https://newindenmark.com)
 
 > **IMPORTANTE**
@@ -52,7 +51,7 @@ Una vez elegido el esquema, te recomiendo recopilar la documentación antes que 
 
 * Contrato de Trabajo o Carta de Oferta que exprese claramente el salario a recibir.
   * Ojo aquí. El Pay-Limit scheme tiene como condición de mantenimiento que te paguen el sueldo en una cuenta de banco danesa. Así que nada de mentir con esto.
-* Pasaporte al día 
+* Pasaporte al día
   * Yo tuve que entregar copias y el pasaporte por unos días, pero si eres de un país que requiere visado para entrar a Dinamarca... entonces tendrás que entregarlo y conseguir la visa correspondiente -más sobre esto adelante-).
 * Experiencia Profesional Relevante
   * Últimos 3 empleadores
@@ -69,7 +68,7 @@ Con todo esto, estás listo para rellenar el formulario AR-1 (AR-6 si lo hará t
 >
 > Si cometes un error en el formulario, tienes que informarlo por Carta o Correo Electrónico lo más pronto posible a SIRI para no retrasar tu proceso.
 
-Una vez enviado el AR-1, tienes **14 días** para el registro biométrico, si no, tu aplicación es rechazada. Aquí es donde vas al sitio de SIRI de nuevo y............ te confundes. 
+Una vez enviado el AR-1, tienes **14 días** para el registro biométrico, si no, tu aplicación es rechazada. Aquí es donde vas al sitio de SIRI de nuevo y............ te confundes.
 
 ![SIRI-1](/images/siri-1.png)
 
@@ -79,9 +78,9 @@ La información tiene 15000 variantes y ya no se entiende nada. Hiciste el trám
 
 ### Dinamarca en Chile, Noruega y el Centro de Postulación a Visas VFS
 
-Dinamarca tiene embajada en Chile? **Sí**. 
+Dinamarca tiene embajada en Chile? **Sí**.
 
-Dinamarca recibe aplicaciones o registros biométricos en Chile? **No**. 
+Dinamarca recibe aplicaciones o registros biométricos en Chile? **No**.
 
 OK... OK... Entonces voy a la Embajada de Noruega y listo no? Eso dice el sitio web de SIRI. **No**.
 
@@ -124,21 +123,20 @@ Documentos que debes presentar en el Centro de Visas de Noruega en Chile:
 -Recibo que acredita la documentación subida a la página.
 
 Tenemos disponibilidad para el día XXX de XXXXXXXXX a las 10:00 hrs.
- 
+
 ```
 
 Confirmé a traves de email para esa hora y... nunca recibi respuesta. Igualmente me presenté ese día a la hora indicada y mi cita estaba registrada.
 
-Aquí me pillé otras sorpresas: 
+Aquí me pillé otras sorpresas:
 
 * Esa inocente linea que decía *"los pagos correspondientes a Noruega"*? CLP 420.000 🙃 solo en la tarifa de la Embajada, más todos los gastos operacionales de VFS (que sí había visto en su sitio web previamente).
-
 * Necesitaba fotocopias de cada página del pasaporte, incluyendo tapas y páginas vacías. Ellos toman las  copias pero con un costo absurdo (aunque marginal comparado con el resto del trámite).
 * Se quedan con el Pasaporte (te lo envían via DHL de vuelta eso sí).
 
 Nada que hacer! A pagar se ha dicho (si lo dejas pendiente, todo se atrasa, incluyendo la entrega de tu pasaporte).
 
-Al dīa siguiente de entregar mis documentos, le escribí a la Embajada de Noruega para saber más o menos cuanto tardaba porque mi viaje se aproxima y para mi sorpresa, me respondieron que podían dar prioridad. A medio día, mi pasaporte lo tenía nuevamente VFS Global Chile y 1 hora después tenía un mail de DHL con los datos del envío. 
+Al dīa siguiente de entregar mis documentos, le escribí a la Embajada de Noruega para saber más o menos cuanto tardaba porque mi viaje se aproxima y para mi sorpresa, me respondieron que podían dar prioridad. A medio día, mi pasaporte lo tenía nuevamente VFS Global Chile y 1 hora después tenía un mail de DHL con los datos del envío.
 
 Ahora solo queda la aprobación.
 
@@ -146,7 +144,7 @@ Ahora solo queda la aprobación.
 
 Para variar depende: Si eres de un país que requiere a sus ciudadanos tener una visa para entrar a Dinamarca? No hay suerte! Ahora si eres de Chile u otro país con acceso sin visa a Dinamarca:
 
-Aquí hay que pensarlo bien. Depende de muchos factores. El más importante... la fecha. 
+Aquí hay que pensarlo bien. Depende de muchos factores. El más importante... la fecha.
 
 Si SIRI está con muchos trámites, puede tomar hasta 3 meses (esto esta enterrado en la sección *Words and Concepts* del sitio web de SIRI). Durante el verano danés, SIRI tiene más solicitudes debido a la gran cantidad de personas que van a Dinamarca con un Working Holiday o a estudiar en inicios de Septiembre.
 
@@ -156,7 +154,7 @@ Por otro lado, el costo de los vuelos es hasta 3 veces superior si compras la mi
 
 Yo... Bueno ya hablaré de mi travesía en otro post.
 
-Espero que este post haya sido de ayuda, si tienes cualquier duda no dudes en escribirme a mi [Instagram](https://instagram.com/juanpintoduran) o mi [Twitter](https://twitter.com/juanpintoduran)! 
+Espero que este post haya sido de ayuda, si tienes cualquier duda no dudes en escribirme a mi [Instagram](https://instagram.com/juanpintoduran) o mi [Twitter](https://twitter.com/juanpintoduran)!
 
 Finalmente, acá abajo te dejo la lista de costos del trámite como referencia (valores @ Septiembre-2019)
 
